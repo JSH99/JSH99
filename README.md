@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSEO's%GitHub&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSEO's%20GitHub&fontSize=90)  
 
 ## 👩‍💻TECH👩‍💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-
+  
 ## 👪VISITS👪
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJSH99%2Fhit-counter&count_bg=%236DC5ED&title_bg=%23231F1F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-  
