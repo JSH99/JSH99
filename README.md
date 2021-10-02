@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSEO's%20GitHub&fontSize=90)  
+  
+## 🏅STATS🏅
+![SSEO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSH99&show_icons=true&theme=radical)
 
 ## 👩‍💻TECH👩‍💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
