@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <br><br><br>  
 ## 🗣LANGUAGE🗣  
 ![SSEO's Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=JSH99&layout=compact&theme=tokyonight)
-<!-- ## 👪VISITS👪
+## 👪VISITS👪
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJSH99%2Fhit-counter&count_bg=%236DC5ED&title_bg=%23231F1F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-—>
