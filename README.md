@@ -17,22 +17,22 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SSEO's%20GitHub&fontSize=80)  
 <br><br>
-👋 Hi there! I'm **frontend developer**.  
+👋 Hi there! I'm **frontend developer**.👩🏻‍💻  
 <br><br>
 ## 🛠TECH🛠
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white)  
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=white)  
 
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=A8B9CC)
   
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)  
   
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)  
 <br><br><br>  
 ## 🏅STATS🏅
 ![SSEO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSH99&show_icons=true&theme=tokyonight)  
